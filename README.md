@@ -24,7 +24,7 @@ B 站视频教程：
 【杀戮尖塔2卡面终于能这么改了】  
 https://www.bilibili.com/video/BV1nDwxzwEtd?vd_source=e31ad477618362cafd0a0196e98adb2c
 
-如果你是第一次使用，建议先直接看视频，再回来看仓库结构。
+如果你是第一次使用，建议先直接看视频教程。
 
 ## 默认快捷键
 

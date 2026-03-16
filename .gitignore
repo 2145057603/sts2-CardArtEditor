@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+.vs/
+
+# Godot caches
+.godot/
+
+# Local runtime data
+packs/
+
+# Internal docs and scripts
+方案/
+安装器/
+当前UI迁移理解文档.md
+批量替换重构执行文档.UTF-8
+批量替换重构执行文档.补充说明.md
+
+# Legacy UI
+CardArtEditorUiV9.cs
+CardArtEditorUiV9.cs.uid
+
+# User/system noise
+*.user
+*.suo
+Thumbs.db
+Desktop.ini

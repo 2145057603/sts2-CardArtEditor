@@ -1,0 +1,13 @@
+{
+  "modId": "InfectionCardReplacer",
+  "displayName": "CardArtEditor",
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/2145057603/sts2-CardArtEditor/releases/latest",
+  "publishedAtUtc": "2026-03-18T00:00:00Z",
+  "releaseNotes": "Stable build with in-game update detection entry on the About page.",
+  "highlights": [
+    "Adds remote version check when the player opens the mod page.",
+    "Shows latest version, release notes, and a download entry.",
+    "Lets releases be announced without Steam Workshop."
+  ]
+}

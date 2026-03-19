@@ -1,7 +1,7 @@
 {
   "modId": "InfectionCardReplacer",
   "displayName": "CardArtEditor",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "downloadUrl": "https://github.com/2145057603/sts2-CardArtEditor/releases/latest",
   "publishedAtUtc": "2026-03-18T00:00:00Z",
   "releaseNotes": "Stable build with in-game update detection entry on the About page.",
